@@ -5,4 +5,4 @@
 ### Not! (Windows geliştirme ortamında çalışma yaptığım için ios telefonumda da test etmek amaçlı projelerimi bu şekilde kullanıyorum.)
 
 ### NPM İNSTALL / NPM EXPO START KOMUTU İLE ÇALIŞTIRABİLİRSİNİZ.
-![Uploading App.jpg…]()
+![App](https://github.com/Enesaydgn1/restaurantSearchApp/assets/65818129/2d24d2ab-e9fd-4f71-907b-1b84de9fcede)
