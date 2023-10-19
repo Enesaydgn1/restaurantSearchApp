@@ -5,3 +5,4 @@
 ### Not! (Windows geliştirme ortamında çalışma yaptığım için ios telefonumda da test etmek amaçlı projelerimi bu şekilde kullanıyorum.)
 
 ### NPM İNSTALL / NPM EXPO START KOMUTU İLE ÇALIŞTIRABİLİRSİNİZ.
+![Uploading App.jpg…]()
